@@ -3,8 +3,7 @@
 
 ### Вот что я уже реализовала по профессии на данный момент
 
-* Ручное тестирование сайта по покупке одежды (составление чек-листа, тест-кейсов, работа с DevTools, API) [Репозиторий с курсовой работой] 
- (https://docs.google.com/spreadsheets/d/1VWh47sVWx9zm0AB4kgOQ7FyQGDp30MgcrzSbOWjj90w/edit#gid=0)
+* Ручное тестирование сайта по покупке одежды (составление чек-листа, тест-кейсов, работа с DevTools, API) [Репозиторий с курсовой работой](https://docs.google.com/spreadsheets/d/1VWh47sVWx9zm0AB4kgOQ7FyQGDp30MgcrzSbOWjj90w/edit#gid=0)
 
 * Тестирование приложения по операции с банковскими счетами с помощью Unit-тестов в [командном проекте](https://github.com/Kvazavr/javaqa-team-diplom-2) в рамках курса “Java для тестировщиков”.
   
