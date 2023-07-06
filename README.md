@@ -26,6 +26,10 @@
     * работала с [Selenium](https://github.com/Kvazavr/Selenium_Homework) и [Selenide](https://github.com/Kvazavr/Selenide_card-delivery)
     * подключала *Docker* и настраивала *docker-compose* для [подготовки приложения](https://github.com/Kvazavr/Docker) к тестированию на СУБД PostgreSQL 
     * настроила [автоматизаированное тестирование](https://github.com/Kvazavr/sql) веб-интерфейса, используя данные из СУБД MySQL.
+      
   ## Сертификаты Нетологии
   
-  * 
+* [Ручное тестирование](https://github.com/Kvazavr/Kvazavr/blob/main/Manual.md)
+* [Git - система контроля версий](https://github.com/Kvazavr/Kvazavr/blob/main/Git.md)
+* [Java для тестировщиков](https://github.com/Kvazavr/Kvazavr/blob/main/Java.md)
+* [Тестировщик ПО](https://github.com/Kvazavr/Kvazavr/blob/main/Tester.md)
