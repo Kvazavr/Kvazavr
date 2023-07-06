@@ -21,7 +21,7 @@
     * gознакомилась с основами [*объектно-ориентированного программирования*](https://github.com/Kvazavr/HomeWork9_0)
     * познакомилась с понятиями [*наследования и расширяемости*](https://github.com/Kvazavr/HomeWork11_0) с обработкой исключительных ситуаций и [тестированием исключений](https://github.com/Kvazavr/HomeWork12_0).
 * На курсе *Автоматизированное тестирование*
-    * создавала проекты в *IDEA* на базе **Gradle*
+    * создавала проекты в *IDEA* на базе **Gradle**
     * научилась настраивать *CI* на основе **AppVeyor**
     * работала с [Selenium](https://github.com/Kvazavr/Selenium_Homework) и [Selenide](https://github.com/Kvazavr/Selenide_card-delivery)
     * подключала *Docker* и настраивала *docker-compose* для [подготовки приложения](https://github.com/Kvazavr/Docker) к тестированию на СУБД PostgreSQL 
