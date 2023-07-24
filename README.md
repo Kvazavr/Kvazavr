@@ -1,6 +1,15 @@
 # Привет!
 ## Меня зовут Некрасова Елена, в июле 2023 года окончила курсы в Нетологии "Тестировщик ПО"
 
+### КЛЮЧЕВЫЕ КОМПЕТЕНЦИИ
+* Языки программирования: Java (основы)
+* Операционные системы: Windows, Linux
+* Базы данных: PostgreSQL, MySQL
+* Фреймворки: JUnit, TestNG, Selenide
+* Инструменты тестирования: тест-кейсы, чек-листы, Postman, DevTools, JIRA, Selenium WebDriver, Jacoco, Allure
+* Методологии: знакома с Kanban, Scrum
+* Инструментарий: IntelliJ IDEA (системы сборки Maven и Gradle), Git, GitHub, Docker
+
 ### Вот что я уже реализовала по профессии на данный момент
 
 * Ручное тестирование сайта по покупке одежды (составление чек-листа, тест-кейсов, работа с DevTools, API) [Репозиторий с курсовой работой](https://docs.google.com/spreadsheets/d/1VWh47sVWx9zm0AB4kgOQ7FyQGDp30MgcrzSbOWjj90w/edit#gid=0)
